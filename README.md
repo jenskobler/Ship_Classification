@@ -1,1 +1,1 @@
-# Ship_Classification
+# Ship Classification with a Deep Neural Network
